@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'rnet') {
-        message.reply('Dames en heren, goedemiddag. Wij rijden niet.');
+    if (message.content === 'ns') {
+        message.reply('Voor de treintijden, check www.ns.nl of de treinen wel echt rijden. Haha doei. ^NS');
       }
 });
 
