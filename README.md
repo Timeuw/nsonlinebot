@@ -1,2 +1,2 @@
-# nsonlinebot
-ns
+# RNETBOT
+rnet
