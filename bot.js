@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'ns') {
-        message.reply('Voor de treintijden, check www.ns.nl of de treinen wel echt rijden. Haha doei. ^NS');
+        message.reply('Op dit moment rijden er geen treinen door heel Nederland.');
       }
 });
 
